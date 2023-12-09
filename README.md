@@ -20,4 +20,6 @@
     docker-compose up
     ```
 
-4. Доступ к приложению [http://localhost:8080](http://localhost:8080).
+4. Доступ к приложению [http://localhost:8080](http://localhost:8080)
+
+5. Документация [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
