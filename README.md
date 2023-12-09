@@ -17,7 +17,7 @@
 3. Запуск докер контейнера:
 
     ```bash
-    docker-compose up --build
+    docker-compose up
     ```
 
 4. Доступ к приложению [http://localhost:8080](http://localhost:8080).
